@@ -7,8 +7,6 @@ A simple full-stack appointment booking application built with React on the fron
 ## 🌐 Live Demo & Deployment
 
 - **Live Cloud App**: **[https://doctor-appointment-jbkl.onrender.com/](https://doctor-appointment-jbkl.onrender.com/)** *(Hosted on Render)*
-- **Direct Tunnel Link**: **[https://odd-women-agree.loca.lt](https://odd-women-agree.loca.lt)** *(Password: `152.59.176.175`)*
-- **GitHub Repository**: **[https://github.com/AY-10/Doctor_Appointment](https://github.com/AY-10/Doctor_Appointment)**
 
 ---
 
