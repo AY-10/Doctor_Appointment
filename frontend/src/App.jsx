@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
 import './App.css';
 
-const API_URL = 'http://localhost:8080/api/appointments';
+const API_URL = window.location.port === '5173' ? 'http://localhost:8080/api/appointments' : '/api/appointments';
 
 const DOCTORS = ['Dr. Rao', 'Dr. Mehta', 'Dr. Sharma'];
 const TIME_SLOTS = [
